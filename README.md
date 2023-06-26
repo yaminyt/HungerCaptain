@@ -11,9 +11,9 @@ This is an online food menu service for Hunger Captain. When you visit the resta
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://sd-frontend.rabeelsadiq.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://hungercaptainfrontend.yamintawhid.repl.co/) here!!
 
-Check out [API LIVE DEMO](https://sd-backend.rabeelsadiq.repl.co/) here!!
+Check out [API LIVE DEMO](https://hungercaptainbackend--yamintawhid.repl.co/) here!!
 
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
